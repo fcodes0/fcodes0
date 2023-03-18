@@ -1,4 +1,4 @@
 # Welcome
-- C, Rust, Javascript
+- C, C++, Rust, Javascript
 - Kernel hacking 🧑‍💻
 - Computer network aficionado 🌐
